@@ -1,7 +1,7 @@
 {
   "name": "spr-sdk-js-support",
   "version": "1.0.0",
-  "description": "This package helps to wrap the api calls to access the Remote package.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
