@@ -1,0 +1,16 @@
+{
+  "name": "spr-sdk-js-support",
+  "version": "1.0.0",
+  "description": "This package helps to wrap the api calls to access the Remote package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ujual",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2"
+  },
+  "type":"module",
+  "git repository":"https://github.com/SPR-DIGITAL-LAB/SPR-SDK-JS-Support.git"
+}
